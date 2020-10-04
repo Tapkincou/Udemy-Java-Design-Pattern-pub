@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="DESIGN_PATTERNS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DESIGN_PATTERNS/javassist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DESIGN_PATTERNS/reflections-0.9.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DESIGN_PATTERNS/commons-lang3-3.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DESIGN_PATTERNS/junit-4.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
